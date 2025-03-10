@@ -1,7 +1,7 @@
 # 💡 Saurabh Takle - Data Enthusiast
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saura-t&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saura-t&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabh-takle&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-takle&layout=compact&theme=radical)
 
 ## 🚀 About Me
 
@@ -23,11 +23,11 @@
 
 ## 📈 GitHub Analytics
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=saura-t&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=saurabh-takle&theme=radical)
 
 ## 📬 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/saura-t/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/saurabh-takle/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabhtakle/)
 
 🚀 Let's collaborate on exciting data projects! Open to discussions and contributions. Feel free to reach out! 🚀
