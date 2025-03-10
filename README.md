@@ -1,31 +1,33 @@
-### Hi there, I'm Saurabh Takle! 👋
+# 💡 Saurabh Takle - Data Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer & Data Enthusiast** with a strong background in **Data Science, Full-Stack Engineering, and Business Intelligence**. My focus is on leveraging data-driven solutions to improve healthcare and whole-person care.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saura-t&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saura-t&layout=compact&theme=radical)
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 M.S. in Computer Science (Data Science) from **Pace University**
-- 💡 Experienced in **Python, SQL, JavaScript, React, Node.js, AWS, and Databricks**
-- 📊 Passionate about **data analytics, machine learning, and building scalable applications**
-- 🔍 Seeking opportunities in **Software Development, Data Science, Data Engineering, and Analytics**
+🎯 **Data Engineer | Cloud Enthusiast | Problem Solver**  
+📌 Passionate about designing scalable data pipelines, optimizing data workflows, and working with cloud-based solutions.  
+🎓 **Education:**
 
-### 🛠️ Tech Stack
+- **Master’s Degree in Data Science**
+- **Bachelor’s Degree in Computer Science**
 
-- **Languages**: Python, SQL, JavaScript, Java
-- **Frameworks & Libraries**: React, Node.js, Express, Pandas, NumPy, Scikit-learn
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Cloud & Tools**: AWS, Databricks, Docker, Git, Snowflake
+## 🔥 Skills & Expertise
 
-### 🌟 Featured Projects
+🔹 **Programming:** Python, SQL, Scala, Bash  
+🔹 **Big Data Technologies:** Apache Spark, Hadoop, Kafka  
+🔹 **Cloud Platforms:** AWS, Azure, GCP  
+🔹 **Databases & Warehouses:** PostgreSQL, MySQL, Snowflake, Redshift  
+🔹 **ETL & Data Pipelines:** Apache Airflow, dbt, Apache NiFi  
+🔹 **DevOps & CI/CD:** Docker, Kubernetes, Terraform, GitHub Actions
 
-- **[Personalized Product Recommendation System](https://github.com/saura-t/)** - Built a collaborative filtering-based recommendation system using Amazon Fine Food Reviews dataset.
-- **[Chrome Extension for Email Extraction](https://github.com/saura-t/)** - Developed a Chrome extension to extract professional emails from LinkedIn profiles.
-- **[End-to-End Data Pipeline](https://github.com/saura-t/)** - Created an ETL pipeline for processing large-scale healthcare data using AWS & Databricks.
+## 📈 GitHub Analytics
 
-### 📫 Let's Connect!
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=saura-t&theme=radical)
 
-- **GitHub**: [saura-t](https://github.com/saura-t/)
-- **LinkedIn**: [Saurabh Takle](https://www.linkedin.com/in/saurabhtakle/)
-- **Email**: saurabhtakle99@gmail.com
+## 📬 Connect with Me
 
-📌 _Check out my repositories and feel free to collaborate or reach out!_ 🚀
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/saura-t/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabhtakle/)
+
+🚀 Let's collaborate on exciting data projects! Open to discussions and contributions. Feel free to reach out! 🚀
