@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Analytics
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=saurabh-takle&theme=radical)
+[![GitHub Analytics](https://github-readme-streak-stats.herokuapp.com?user=saurabh-takle&theme=radical)](https://git.io/streak-stats)
 
 ## 📬 Connect with Me
 
