@@ -1,4 +1,4 @@
-
+![Hey there, I'm Saurabh. I'm a Data Engineer, a problem solver. Check out my work](https://github.com/saurabh-takle/saurabh-takle/raw/master/header.gif)
 
 ## 🚀 About Me
 
