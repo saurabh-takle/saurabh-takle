@@ -1,4 +1,7 @@
-![Hey there, I'm Saurabh. I'm a Data Engineer, a problem solver. Check out my work](https://github.com/saurabh-takle/saurabh-takle/blob/main/Header.gif)
+<p align="center"> Visitor Counter
+<p align="center"> <img src="https://profile-counter.glitch.me/saurabh-takle/count.svg" alt="visitors"/>
+
+<p align="center"> <img src="https://github.com/saurabh-takle/saurabh-takle/blob/main/Header.gif" alt="Hey there, I'm Saurabh. I'm a Data Engineer, a problem solver. Check out my work"/>
 
 ## 🚀 About Me
 
@@ -9,6 +12,7 @@
 - **Master’s Degree in Data Science**
 - **Bachelor’s Degree in Computer Science**
 
+![Visitor Count](https://profile-counter.glitch.me/saurabh-takle/count.svg)
 <p align="center"> <img src="https://github-readme-streak-stats-saurabhtakles-projects.vercel.app/?user=saurabh-takle&theme=vision-friendly-dark" alt="saurabh-takle"/>
 
 ## 🔥 Skills & Expertise
