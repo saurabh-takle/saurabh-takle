@@ -1,7 +1,7 @@
 # 💡 Saurabh Takle - Data Engineer
 
-![GitHub Stats](https://github-readme-stats-saurabhtakles-projects.vercel.app/api?username=saurabh-takle&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-saurabhtakles-projects.vercel.app/api/top-langs/?username=saurabh-takle&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-saurabhtakles-projects.vercel.app/api?username=saurabh-takle&show_icons=true&theme=vision-friendly-dark)
+![Top Languages](https://github-readme-stats-saurabhtakles-projects.vercel.app/api/top-langs/?username=saurabh-takle&layout=compact&theme=vision-friendly-dark)
 
 ## 🚀 About Me
 
@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Analytics
 
-![GitHub Streak](https://github-readme-streak-stats-saurabhtakles-projects.vercel.app/?user=saurabh-takle&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-saurabhtakles-projects.vercel.app/?user=saurabh-takle&theme=vision-friendly-dark)
 
 ## 📬 Connect with Me
 
