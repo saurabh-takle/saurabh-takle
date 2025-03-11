@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+Welcome+to+Saurabh+Takle's+GitHub;I'm+a+Data+Engineer)](https://git.io/typing-svg)
 # 💡 Saurabh Takle - Data Engineer
 
 ![GitHub Stats](https://github-readme-stats-saurabhtakles-projects.vercel.app/api?username=saurabh-takle&show_icons=true&theme=radical)
