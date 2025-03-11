@@ -1,6 +1,6 @@
 # 💡 Saurabh Takle - Data Engineer
 
-![GitHub Stats](https://github-readme-stats-saurabhtakles-projects.vercel.app/api?username=saurabh-takle&show_icons=true&theme=radical&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-saurabhtakles-projects.vercel.app/api?username=saurabh-takle&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats-saurabhtakles-projects.vercel.app/api/top-langs/?username=saurabh-takle&layout=compact&theme=radical)
 
 ## 🚀 About Me
