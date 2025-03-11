@@ -21,6 +21,10 @@
 🔹 **ETL & Data Pipelines:** Apache Airflow, dbt, Apache NiFi  
 🔹 **DevOps & CI/CD:** Docker, Kubernetes, Terraform, GitHub Actions
 
+## 📈 GitHub Analytics
+
+![GitHub Streak](https://github-readme-streak-stats-saurabhtakles-projects.vercel.app/?user=saurabh-takle&theme=radical)
+
 ## 📬 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/saurabh-takle/)  
