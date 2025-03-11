@@ -1,7 +1,4 @@
-# 💡 Saurabh Takle - Data Engineer
 
-![GitHub Stats](https://github-readme-stats-saurabhtakles-projects.vercel.app/api?username=saurabh-takle&show_icons=true&theme=vision-friendly-dark)
-![Top Languages](https://github-readme-stats-saurabhtakles-projects.vercel.app/api/top-langs/?username=saurabh-takle&hide_progress=true&theme=vision-friendly-dark)
 
 ## 🚀 About Me
 
@@ -11,6 +8,8 @@
 
 - **Master’s Degree in Data Science**
 - **Bachelor’s Degree in Computer Science**
+
+<p align="center"> <img src="https://github-readme-streak-stats-saurabhtakles-projects.vercel.app/?user=saurabh-takle&theme=vision-friendly-dark" alt="saurabh-takle"/>
 
 ## 🔥 Skills & Expertise
 
@@ -23,7 +22,7 @@
 
 ## 📈 GitHub Analytics
 
-![GitHub Streak](https://github-readme-streak-stats-saurabhtakles-projects.vercel.app/?user=saurabh-takle&theme=vision-friendly-dark)
+<p align="center"> <img src="https://github-readme-stats-saurabhtakles-projects.vercel.app/api?username=saurabh-takle&show_icons=true&theme=vision-friendly-dark" alt="saurabh-takle"/> <img src="https://github-readme-stats-saurabhtakles-projects.vercel.app/api/top-langs/?username=saurabh-takle&hide_progress=true&theme=vision-friendly-dark"/>
 
 ## 📬 Connect with Me
 
